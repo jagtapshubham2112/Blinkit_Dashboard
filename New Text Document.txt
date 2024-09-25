@@ -1,0 +1,8 @@
+Blinkit Dashboard:
+
+1) Which outlet size (small, medium, large) generates the most sales?
+2) How do sales compare across different outlet tiers (Tier 1, Tier 2, Tier 3)?
+3) Which item types contribute the most to overall sales?
+4) What is the average customer rating across different outlet types?
+5) How does fat content impact sales in Blinkit’s product lines?
+6) Which outlet locations are the most profitable?
