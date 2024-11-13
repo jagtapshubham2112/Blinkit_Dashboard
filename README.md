@@ -1,4 +1,6 @@
 # Blinkit Sales Dashboard
+![image alt](https://github.com/jagtapshubham2112/Blinkit_Dashboard/blob/e18feddd55ec9fc76d176bf5fd51d15ef6599d21/blinkit.jpg)
+
 
 ## Overview
 The Blinkit Sales Dashboard, created using Power BI, offers an analysis of sales trends, item popularity, outlet performance, and customer ratings for Blinkit, India's last-minute shopping app. This dashboard helps retail managers, marketers, and supply chain analysts understand customer preferences and outlet efficiency.
